@@ -1,0 +1,1 @@
+select * from Questions where QuestionId=(select QuestionId from QuestionQuiz where QuizId=(select QuizId from Quiz where QuizName='Riyaziyyat'))

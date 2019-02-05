@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\dell\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\dell\source\repos\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\dell\source\repos\QuizApp\QuizApp\bin\Debug\EntityFramework.dll
+C:\Users\dell\source\repos\QuizApp\QuizApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\source\repos\QuizApp\QuizApp\bin\Debug\EntityFramework.xml
+C:\Users\dell\source\repos\QuizApp\QuizApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CopyComplete
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.Form1.resources
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.Form2.resources
+C:\Users\dell\source\repos\QuizApp\QuizApp\obj\Debug\QuizApp.Form3.resources
